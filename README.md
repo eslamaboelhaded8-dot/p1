@@ -1,3 +1,3 @@
-# p1
+# Git Hube
 Project 1
-Git course
+Git course elzero
